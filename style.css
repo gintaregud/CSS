@@ -1,0 +1,37 @@
+section{
+	color:red;
+}
+
+article{
+	color:blue;
+}
+#promo{
+	background-color: blue;
+	color:#fff;
+}
+.red {
+	background-color: red;
+}
+.tomato {
+	background-color: tomato;
+}
+.aqua {
+	background-color: aqua;
+}
+
+.center {
+	text-align: center;
+}
+.ad {
+	color: tomato;
+}
+a[href="http://www.kitm.lt"]{
+	color: red;
+}
+a [href="http://www.ssm.lt"]{
+	color: blue;
+}
+ [href="http://www.kaunas.lt"]{
+ 	color:;
+
+}
